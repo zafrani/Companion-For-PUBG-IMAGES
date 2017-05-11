@@ -2,103 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6520f2e4-8bfc-4a86-9c30-5a1dd0b14132" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Lower_AngledForeGrip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Lower_Foregrip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Lower_Foregrip_Croosbow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_ExtendedQuickDraw_Large.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_ExtendedQuickDraw_Medium.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_ExtendedQuickDraw_Small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_ExtendedQuickDraw_SniperRifle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_Extended_DrumMagazine.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_Extended_Large.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_Extended_Medium.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_Extended_Small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_Extended_SniperRifle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_QuickDraw_Large.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_QuickDraw_Large_Crossbow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_QuickDraw_Medium (1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_QuickDraw_Medium.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_QuickDraw_Small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Medium_Extended_Magazine_Vector.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Medium_QuickDraw_Magazine_Vector.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_Choke.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_Compensator_Medium.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_Compensator_SniperRifle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_FlashHider_Large.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_FlashHider_Medium.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_FlashHider_SniperRifle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_Suppressor_Large.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_Suppressor_Medium.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_Suppressor_Small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_Suppressor_SniperRifle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Stock_AR_Composite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Stock_Shotgun_BulletLoops (1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Stock_Shotgun_BulletLoops.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Stock_SniperRifle_BulletLoops.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Stock_SniperRifle_CheekPad (1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Stock_SniperRifle_CheekPad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/attachments/Icon_attach_Stock_UZI.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Ball_Cap_(Blue).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Ball_Cap_(Red).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Ball_Cap_(White).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Armor_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Armor_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Armor_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Back_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Back_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Back_E_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Belt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Body_C_03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Body_D_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Body_G_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Eyes_A_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Eyes_D_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Eyes_D_02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Feet_A_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Feet_E_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Ghillie_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Head_D_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Head_E_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Head_E_02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Head_F_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Head_F_02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Head_G_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Jacket_C_06.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Legs_BR07_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Legs_C_02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Mask_B_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_Mask_C_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_gloves_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/equipment/Icon_equipment_trench.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/104px-Icon_weapon_Crossbow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_AK47.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_AWM.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_Berreta686.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_Cowbar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_Crossbow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_FlashBang.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_Grenade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_Kar98k.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_M16A4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_M1911.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_M24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_M249.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_M416.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_M9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_Machete.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_Molotov.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_NagantM1895.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_Pan.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_SCAR-L.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_SKS.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_Saiga12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_Sickle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_SmokeBomb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_Thompson.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_UMP.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_UZI.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_Vector_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_Winchester.png" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_AKM.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_AWM.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Crossbow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Crowbar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_FragGrenade.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Kar98k.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_M16A4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_M24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_M249.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_M416.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Machete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Molotov.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_P1911.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_P92.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Pan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_R1895.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_S12K.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_S1897.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_S686.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_SCAR-L.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_SKS.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Sickle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_SmokeGrenade.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_StunGrenade.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_TommyGun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_UMP.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_UZI.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Vector.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -178,7 +109,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ammo" />
+              <option name="myItemId" value="weapons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PUBG-Companion-Images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PUBG-Companion-Images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -200,10 +145,10 @@
       <recent name="$PROJECT_DIR$/images" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/weapons" />
       <recent name="$PROJECT_DIR$/images/ammo" />
       <recent name="$PROJECT_DIR$/images/equipment" />
       <recent name="$PROJECT_DIR$/images/attachments" />
-      <recent name="$PROJECT_DIR$/images/weapons" />
     </key>
   </component>
   <component name="RunManager">
@@ -599,12 +544,12 @@
       <option name="presentableId" value="Default" />
       <updated>1494473244808</updated>
       <workItem from="1494473259389" duration="906000" />
-      <workItem from="1494527769701" duration="1158000" />
+      <workItem from="1494527769701" duration="1502000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2064000" />
+    <option name="totallyTimeSpent" value="2408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="838" height="1050" extended-state="0" />
