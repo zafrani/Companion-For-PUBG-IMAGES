@@ -2,74 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6520f2e4-8bfc-4a86-9c30-5a1dd0b14132" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ammo/Icon_ammo_12Guage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ammo/Icon_ammo_300Magnum.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ammo/Icon_ammo_45ACP.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ammo/Icon_ammo_556mm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ammo/Icon_ammo_762mm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ammo/Icon_ammo_9mm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Lower_AngledForeGrip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Lower_Foregrip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Lower_Foregrip_Croosbow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_ExtendedQuickDraw_Large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_ExtendedQuickDraw_Medium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_ExtendedQuickDraw_Small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_ExtendedQuickDraw_SniperRifle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_Extended_DrumMagazine.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_Extended_Large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_Extended_Medium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_Extended_Small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_Extended_SniperRifle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_QuickDraw_Large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_QuickDraw_Large_Crossbow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_QuickDraw_Medium (1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_QuickDraw_Medium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Magazine_QuickDraw_Small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Medium_Extended_Magazine_Vector.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Medium_QuickDraw_Magazine_Vector.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_Choke.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_Compensator_Medium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_Compensator_SniperRifle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_FlashHider_Large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_FlashHider_Medium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_FlashHider_SniperRifle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_Suppressor_Large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_Suppressor_Medium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_Suppressor_Small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Muzzle_Suppressor_SniperRifle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Stock_Shotgun_BulletLoops (1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Stock_Shotgun_BulletLoops.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/attachments/Icon_attach_Stock_SniperRifle_BulletLoops.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/104px-Icon_weapon_Crossbow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_AK47.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_AWM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Berreta686.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Cowbar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Crossbow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_FlashBang.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Grenade.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Kar98k.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_M16A4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_M1911.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_M24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_M249.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_M416.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_M9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Machete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Molotov.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_NagantM1895.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Pan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_SCAR-L.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_SKS.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Saiga12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Sickle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_SmokeBomb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Thompson.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_UMP.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_UZI.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Vector_01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/weapons/Icon_weapon_Winchester.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Ball_Cap_(Blue).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Ball_Cap_(Red).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Ball_Cap_(White).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Armor_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Armor_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Armor_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Back_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Back_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Back_E_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Belt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Body_C_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Body_D_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Body_G_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Eyes_A_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Eyes_D_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Eyes_D_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Feet_A_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Feet_E_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Ghillie_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Head_D_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Head_E_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Head_E_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Head_F_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Head_F_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Head_G_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Jacket_C_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Legs_BR07_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Legs_C_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Mask_B_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_Mask_C_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_gloves_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/equipment/Icon_equipment_trench.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -84,6 +49,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -157,6 +127,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="equipment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PUBG-Companion-Images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PUBG-Companion-Images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="attachments" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -175,13 +163,14 @@
     <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/equipment" />
       <recent name="$PROJECT_DIR$/images/attachments" />
       <recent name="$PROJECT_DIR$/images/ammo" />
       <recent name="$PROJECT_DIR$/images/weapons" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
   <component name="RunManager">
@@ -422,6 +411,7 @@
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -543,6 +533,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -569,45 +565,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1494473244808</updated>
-      <workItem from="1494473259389" duration="823000" />
+      <workItem from="1494473259389" duration="906000" />
+      <workItem from="1494527769701" duration="723000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="823000" />
+    <option name="totallyTimeSpent" value="1629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25274727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
