@@ -2,27 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6520f2e4-8bfc-4a86-9c30-5a1dd0b14132" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/ammo/Icon_ammo_12Guage.png" afterPath="$PROJECT_DIR$/images/Ammunition/Icon_ammo_12Guage.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/ammo/Icon_ammo_300Magnum.png" afterPath="$PROJECT_DIR$/images/Ammunition/Icon_ammo_300Magnum.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/ammo/Icon_ammo_45ACP.png" afterPath="$PROJECT_DIR$/images/Ammunition/Icon_ammo_45ACP.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/ammo/Icon_ammo_556mm.png" afterPath="$PROJECT_DIR$/images/Ammunition/Icon_ammo_556mm.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/ammo/Icon_ammo_762mm.png" afterPath="$PROJECT_DIR$/images/Ammunition/Icon_ammo_762mm.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/ammo/Icon_ammo_9mm.png" afterPath="$PROJECT_DIR$/images/Ammunition/Icon_ammo_9mm.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_AWM.png" afterPath="$PROJECT_DIR$/images/Weapons/Icon_weapon_AWM.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_Crowbar.png" afterPath="$PROJECT_DIR$/images/Weapons/Icon_weapon_Crowbar.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_M16A4.png" afterPath="$PROJECT_DIR$/images/Weapons/Icon_weapon_M16A4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_M249.png" afterPath="$PROJECT_DIR$/images/Weapons/Icon_weapon_M249.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_M416.png" afterPath="$PROJECT_DIR$/images/Weapons/Icon_weapon_M416.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_Machete.png" afterPath="$PROJECT_DIR$/images/Weapons/Icon_weapon_Machete.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_P1911.png" afterPath="$PROJECT_DIR$/images/Weapons/Icon_weapon_P1911.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_P92.png" afterPath="$PROJECT_DIR$/images/Weapons/Icon_weapon_P92.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_R1895.png" afterPath="$PROJECT_DIR$/images/Weapons/Icon_weapon_R1895.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_S686.png" afterPath="$PROJECT_DIR$/images/Weapons/Icon_weapon_S686.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_SCAR-L.png" afterPath="$PROJECT_DIR$/images/Weapons/Icon_weapon_SCAR-L.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_Sickle.png" afterPath="$PROJECT_DIR$/images/Weapons/Icon_weapon_Sickle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_SmokeGrenade.png" afterPath="$PROJECT_DIR$/images/Weapons/Icon_weapon_SmokeGrenade.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_TommyGun.png" afterPath="$PROJECT_DIR$/images/Weapons/Icon_weapon_TommyGun.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/weapons/Icon_weapon_Vector.png" afterPath="$PROJECT_DIR$/images/Weapons/Icon_weapon_Vector.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_AngledForeGrip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_Choke.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_CompensatorSMG.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_CompensatorSniperRifle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedDrumMag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedMagAR.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedMagPistol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedMagSMG.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedMagSniperRifle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedMagVector.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedQuickAR.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedQuickPistoll.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedQuickSMG.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedQuickSniperRifle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_FlashHiderAR.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_FlashHiderSMG.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_FlashHiderSniperRifle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ForegripCrossbow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_Holo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_QuickDrawAR.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_QuickDrawCrossbow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_QuickDrawPistol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_QuickDrawSMG.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_QuickDrawVector.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_RedDot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ShotgunBulletLoops.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_SniperRifleBulletLoops.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_SuppressorAR.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_SuppressorPistol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_SuppressorSMG.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_SuppressorSniperRifle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_VerticalForegrip.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,8 +67,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="x" value="697" />
+    <option name="y" value="23" />
+    <option name="width" value="983" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -101,10 +114,6 @@
               <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Weapons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -120,7 +129,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Ammunition" />
+              <option name="myItemId" value="Attachments" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -135,13 +144,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/Attachments" />
       <recent name="$PROJECT_DIR$/images/weapons" />
       <recent name="$PROJECT_DIR$/images/ammo" />
       <recent name="$PROJECT_DIR$/images/equipment" />
@@ -541,15 +550,15 @@
       <option name="presentableId" value="Default" />
       <updated>1494473244808</updated>
       <workItem from="1494473259389" duration="906000" />
-      <workItem from="1494527769701" duration="2145000" />
+      <workItem from="1494527769701" duration="2716000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3051000" />
+    <option name="totallyTimeSpent" value="3622000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="697" y="23" width="983" height="947" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -563,10 +572,10 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37470168" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1978022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4410202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
