@@ -2,39 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6520f2e4-8bfc-4a86-9c30-5a1dd0b14132" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Backpack_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Backpack_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Backpack_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Beanie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_CapBlue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_CapRed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_CapWhite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Ghillie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_GlassesPunk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Helmet3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_JacketA.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_JacketB.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_JacketC.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_JacketD.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_JacketE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_LongSleeveShirtA.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Mask_B_01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Mask_C_01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_MilitaryHelmet2A.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_MilitaryHelmet2B.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_MotorcycleHelmet1A.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_MotorcycleHelmet1B.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_PantsA.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_PantsB.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_RimlessSunglasses.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_ShirtA.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_ShirtTankTopA.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_ShoesA.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_ShoesB.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Sunglasses.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_UtilityBelt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_gloves_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_trench.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Mask_B_01.png" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_GasMaskFull.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Mask_C_01.png" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_GasMaskHalf.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,10 +37,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="697" />
-    <option name="y" value="23" />
-    <option name="width" value="983" />
-    <option name="height" value="947" />
+    <option name="width" value="619" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -145,6 +112,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js.eslint.eslintPackage" value="" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -551,15 +519,15 @@
       <option name="presentableId" value="Default" />
       <updated>1494473244808</updated>
       <workItem from="1494473259389" duration="906000" />
-      <workItem from="1494527769701" duration="4010000" />
+      <workItem from="1494527769701" duration="4290000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4916000" />
+    <option name="totallyTimeSpent" value="5196000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="697" y="23" width="983" height="947" extended-state="0" />
+    <frame x="0" y="0" width="619" height="1050" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -573,10 +541,10 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37394452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3249476" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4410202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.71923745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
