@@ -2,38 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6520f2e4-8bfc-4a86-9c30-5a1dd0b14132" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_AngledForeGrip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_Choke.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_CompensatorSMG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_CompensatorSniperRifle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedDrumMag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedMagAR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedMagPistol.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedMagSMG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedMagSniperRifle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedMagVector.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedQuickAR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedQuickPistoll.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedQuickSMG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ExtendedQuickSniperRifle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_FlashHiderAR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_FlashHiderSMG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_FlashHiderSniperRifle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ForegripCrossbow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_Holo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_QuickDrawAR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_QuickDrawCrossbow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_QuickDrawPistol.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_QuickDrawSMG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_QuickDrawVector.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_RedDot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_ShotgunBulletLoops.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_SniperRifleBulletLoops.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_SuppressorAR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_SuppressorPistol.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_SuppressorSMG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_SuppressorSniperRifle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Attachments/Icon_attach_VerticalForegrip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Backpack_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Backpack_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Backpack_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Beanie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_CapBlue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_CapRed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_CapWhite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Ghillie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_GlassesPunk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Helmet3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_JacketA.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_JacketB.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_JacketC.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_JacketD.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_JacketE.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_LongSleeveShirtA.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Mask_B_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Mask_C_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_MilitaryHelmet2A.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_MilitaryHelmet2B.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_MotorcycleHelmet1A.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_MotorcycleHelmet1B.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_PantsA.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_PantsB.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_RimlessSunglasses.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_ShirtA.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_ShirtTankTopA.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_ShoesA.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_ShoesB.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_Sunglasses.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_UtilityBelt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_gloves_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Equipment/Icon_equipment_trench.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -129,7 +130,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Attachments" />
+              <option name="myItemId" value="Equipment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -150,11 +151,11 @@
       <recent name="$PROJECT_DIR$/images" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/Equipment" />
       <recent name="$PROJECT_DIR$/images/Attachments" />
       <recent name="$PROJECT_DIR$/images/weapons" />
       <recent name="$PROJECT_DIR$/images/ammo" />
       <recent name="$PROJECT_DIR$/images/equipment" />
-      <recent name="$PROJECT_DIR$/images/attachments" />
     </key>
   </component>
   <component name="RunManager">
@@ -550,12 +551,12 @@
       <option name="presentableId" value="Default" />
       <updated>1494473244808</updated>
       <workItem from="1494473259389" duration="906000" />
-      <workItem from="1494527769701" duration="2716000" />
+      <workItem from="1494527769701" duration="4010000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3622000" />
+    <option name="totallyTimeSpent" value="4916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="697" y="23" width="983" height="947" extended-state="0" />
@@ -572,7 +573,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37470168" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37394452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4410202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
